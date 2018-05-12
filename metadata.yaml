@@ -1,0 +1,28 @@
+_repo: Cheng-shih_26887
+_version: 0.1.0
+alternative_title: Ting shi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Yue, Ke
+    alias: 岳珂
+    birthdate: 1183
+    deathdate: 1234
+    gutenberg_agent_id: '32306'
+    url: http://www.gutenberg.org/2009/agents/32306
+description: ''
+gutenberg_issued: '2008-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26887'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Song dynasty, 960-1279 -- Anecdotes'
+- !lcc 'DS'
+title: 桯史
+url: http://www.gutenberg.org/ebooks/26887
